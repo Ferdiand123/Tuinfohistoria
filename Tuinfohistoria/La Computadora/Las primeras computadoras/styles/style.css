@@ -1,0 +1,54 @@
+html {
+    background-color: peachpuff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    display:block;
+    width: 500px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 25px;
+    text-align:justify;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: left;
+}
+
+.imagen-01 {
+    display:block;
+    width: 500px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.imagen-02 {
+    display:block;
+    width: 500px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.imagen-03 {
+    display:block;
+    width: 600px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.imagen-04 {
+    display:block;
+    width: 300px;
+    max-width: 100%;
+    margin: 0 auto;
+}
